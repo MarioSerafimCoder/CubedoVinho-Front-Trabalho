@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    background-color: #EFEFEF;
+}
+
+body.login div {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.btn-wine {
+    background-color: #AD63FF;
+    color: white;
+    border: 1px solid #AD63FF;
+}
+
+.btn-wine:hover {
+    background-color: #8a4fcc;
+}
+
+
